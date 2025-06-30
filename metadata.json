@@ -1,0 +1,5 @@
+{
+  "name": "DSMS - Device & System Management Suite",
+  "description": "An advanced dashboard for monitoring and managing network devices, visualizing topology, handling support tickets, and analyzing digital user experience with AI-powered insights.",
+  "requestFramePermissions": []
+}
